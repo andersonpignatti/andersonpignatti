@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6405a8c6.css",
-    "main.js": "/static/js/main.c0d3e58d.js",
+    "main.css": "/static/css/main.5d69c454.css",
+    "main.js": "/static/js/main.f32ee36a.js",
     "static/js/787.2b71046c.chunk.js": "/static/js/787.2b71046c.chunk.js",
     "static/media/clone-netflix.png": "/static/media/clone-netflix.c7e32f79b4d395a5b74f.png",
     "static/media/página-de-captura.png": "/static/media/página-de-captura.25afe4b999676d12e02e.png",
@@ -10,12 +10,12 @@
     "static/media/Logo2.png": "/static/media/Logo2.6cea546bf5d8a6e3d787.png",
     "static/media/calculadora-churrasco.png": "/static/media/calculadora-churrasco.082d41bb3d022a572ce9.png",
     "index.html": "/index.html",
-    "main.6405a8c6.css.map": "/static/css/main.6405a8c6.css.map",
-    "main.c0d3e58d.js.map": "/static/js/main.c0d3e58d.js.map",
+    "main.5d69c454.css.map": "/static/css/main.5d69c454.css.map",
+    "main.f32ee36a.js.map": "/static/js/main.f32ee36a.js.map",
     "787.2b71046c.chunk.js.map": "/static/js/787.2b71046c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6405a8c6.css",
-    "static/js/main.c0d3e58d.js"
+    "static/css/main.5d69c454.css",
+    "static/js/main.f32ee36a.js"
   ]
 }
